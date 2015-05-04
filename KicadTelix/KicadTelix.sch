@@ -1,0 +1,747 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:gsm_862
+LIBS:l298
+LIBS:LCD
+LIBS:lcd_1602
+LIBS:lm2940
+LIBS:sw_dip
+LIBS:Tom_contrib
+LIBS:telit_faux
+LIBS:KicadTelix-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "5 feb 2015"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TOM_TELIT862_CONN50 U1
+U 1 1 54D32A5D
+P 4850 2550
+F 0 "U1" H 4850 1200 60  0000 C CNN
+F 1 "TOM_TELIT862_CONN50" H 4850 3900 60  0000 C CNN
+F 2 "~" H 4850 2550 60  0000 C CNN
+F 3 "~" H 4850 2550 60  0000 C CNN
+	1    4850 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L TOM_TELIT862_CONN50_FAUX U2
+U 1 1 54D339CA
+P 7500 2550
+F 0 "U2" H 7500 1200 60  0000 C CNN
+F 1 "TOM_TELIT862_CONN50_FAUX" H 7500 3900 60  0000 C CNN
+F 2 "~" H 7500 2550 60  0000 C CNN
+F 3 "~" H 7500 2550 60  0000 C CNN
+	1    7500 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 1350 3800 1350
+Wire Wire Line
+	3950 1450 3800 1450
+Wire Wire Line
+	3950 1550 3800 1550
+Wire Wire Line
+	3950 1650 3800 1650
+Wire Wire Line
+	3950 1750 3800 1750
+Wire Wire Line
+	3950 1850 3800 1850
+Wire Wire Line
+	3950 1950 3800 1950
+Wire Wire Line
+	3950 2050 3800 2050
+Wire Wire Line
+	3950 2150 3800 2150
+Wire Wire Line
+	3950 2250 3800 2250
+Wire Wire Line
+	3950 2350 3800 2350
+Wire Wire Line
+	3950 2450 3800 2450
+Wire Wire Line
+	3950 2550 3800 2550
+Wire Wire Line
+	3950 2650 3800 2650
+Wire Wire Line
+	3950 2750 3800 2750
+Wire Wire Line
+	3950 2850 3800 2850
+Wire Wire Line
+	3950 2950 3800 2950
+Wire Wire Line
+	3950 3050 3800 3050
+Wire Wire Line
+	3950 3150 3800 3150
+Wire Wire Line
+	3950 3250 3800 3250
+Wire Wire Line
+	3950 3350 3800 3350
+Wire Wire Line
+	3950 3450 3800 3450
+Wire Wire Line
+	3950 3550 3800 3550
+Wire Wire Line
+	3950 3650 3800 3650
+Wire Wire Line
+	3950 3750 3800 3750
+Wire Wire Line
+	5950 1350 5800 1350
+Wire Wire Line
+	5950 1450 5800 1450
+Wire Wire Line
+	5950 1550 5800 1550
+Wire Wire Line
+	5950 1650 5800 1650
+Wire Wire Line
+	5950 1750 5800 1750
+Wire Wire Line
+	5950 1850 5800 1850
+Wire Wire Line
+	5950 1950 5800 1950
+Wire Wire Line
+	5950 2050 5800 2050
+Wire Wire Line
+	5950 2150 5800 2150
+Wire Wire Line
+	5950 2250 5800 2250
+Wire Wire Line
+	5950 2350 5800 2350
+Wire Wire Line
+	5950 2450 5800 2450
+Wire Wire Line
+	5950 2550 5800 2550
+Wire Wire Line
+	5950 2650 5800 2650
+Wire Wire Line
+	5950 2750 5800 2750
+Wire Wire Line
+	5950 2850 5800 2850
+Wire Wire Line
+	5950 2950 5800 2950
+Wire Wire Line
+	5950 3050 5800 3050
+Wire Wire Line
+	5950 3150 5800 3150
+Wire Wire Line
+	5950 3250 5800 3250
+Wire Wire Line
+	5950 3350 5800 3350
+Wire Wire Line
+	5950 3450 5800 3450
+Wire Wire Line
+	5950 3550 5800 3550
+Wire Wire Line
+	5950 3750 5800 3750
+Wire Wire Line
+	6600 1350 6450 1350
+Wire Wire Line
+	6600 1450 6450 1450
+Wire Wire Line
+	6600 1550 6450 1550
+Wire Wire Line
+	6600 1650 6450 1650
+Wire Wire Line
+	6600 1750 6450 1750
+Wire Wire Line
+	6600 1850 6450 1850
+Wire Wire Line
+	6600 1950 6450 1950
+Wire Wire Line
+	6600 2050 6450 2050
+Wire Wire Line
+	6600 2150 6450 2150
+Wire Wire Line
+	6600 2250 6450 2250
+Wire Wire Line
+	6600 2350 6450 2350
+Wire Wire Line
+	6600 2450 6450 2450
+Wire Wire Line
+	6600 2550 6450 2550
+Wire Wire Line
+	6600 2650 6450 2650
+Wire Wire Line
+	6600 2750 6450 2750
+Wire Wire Line
+	6600 2850 6450 2850
+Wire Wire Line
+	6600 2950 6450 2950
+Wire Wire Line
+	6600 3050 6450 3050
+Wire Wire Line
+	6600 3150 6450 3150
+Wire Wire Line
+	6600 3250 6450 3250
+Wire Wire Line
+	6600 3350 6450 3350
+Wire Wire Line
+	6600 3450 6450 3450
+Wire Wire Line
+	6600 3550 6450 3550
+Wire Wire Line
+	6600 3650 6450 3650
+Wire Wire Line
+	6600 3750 6450 3750
+Wire Wire Line
+	8600 1350 8450 1350
+Wire Wire Line
+	8600 1450 8450 1450
+Wire Wire Line
+	8600 1550 8450 1550
+Wire Wire Line
+	8600 1650 8450 1650
+Wire Wire Line
+	8600 1750 8450 1750
+Wire Wire Line
+	8600 1850 8450 1850
+Wire Wire Line
+	8600 1950 8450 1950
+Wire Wire Line
+	8600 2050 8450 2050
+Wire Wire Line
+	8600 2150 8450 2150
+Wire Wire Line
+	8600 2250 8450 2250
+Wire Wire Line
+	8600 2350 8450 2350
+Wire Wire Line
+	8600 2450 8450 2450
+Wire Wire Line
+	8600 2550 8450 2550
+Wire Wire Line
+	8600 2650 8450 2650
+Wire Wire Line
+	8600 2750 8450 2750
+Wire Wire Line
+	8600 2850 8450 2850
+Wire Wire Line
+	8600 2950 8450 2950
+Wire Wire Line
+	8600 3050 8450 3050
+Wire Wire Line
+	8600 3150 8450 3150
+Wire Wire Line
+	8600 3250 8450 3250
+Wire Wire Line
+	8600 3350 8450 3350
+Wire Wire Line
+	8600 3450 8450 3450
+Wire Wire Line
+	8600 3550 8450 3550
+Wire Wire Line
+	8600 3650 8450 3650
+Wire Wire Line
+	8600 3750 8450 3750
+Text Label 5950 3750 0    60   ~ 0
+Vbatt
+Text Label 5950 3650 0    60   ~ 0
+Vbatt
+Text Label 5950 3550 0    60   ~ 0
+Vbatt
+Text Label 5950 3450 0    60   ~ 0
+Vbatt
+Text Label 3800 3550 0    60   ~ 0
+GND
+Text Label 3800 3650 0    60   ~ 0
+GND
+Text Label 3800 3750 0    60   ~ 0
+GND
+Text Label 6500 1450 0    60   ~ 0
+GND
+Text Label 6500 1650 0    60   ~ 0
+GND
+Text Label 6500 1850 0    60   ~ 0
+GND
+Text Label 6500 2950 0    60   ~ 0
+ON/Off
+Text Label 5850 2950 0    60   ~ 0
+ON/Off
+Text Label 6500 1350 0    60   ~ 0
+Vbatt
+Text Label 6500 1550 0    60   ~ 0
+Vbatt
+Text Label 6500 1750 0    60   ~ 0
+Vbatt
+Text Label 6500 1950 0    60   ~ 0
+Vbatt
+Text Label 6500 3550 0    60   ~ 0
+Rst
+Text Label 5850 2650 0    60   ~ 0
+Rst
+Text Label 3850 2850 0    60   ~ 0
+Tx
+Text Label 6500 3250 0    60   ~ 0
+Tx
+Text Label 8500 2650 0    60   ~ 0
+Rx
+Text Label 5850 1950 0    60   ~ 0
+Rx
+Text Label 5850 1850 0    60   ~ 0
+Led
+Text Label 8500 2450 0    60   ~ 0
+Led
+NoConn ~ 3800 1350
+NoConn ~ 3800 1450
+NoConn ~ 3800 1550
+NoConn ~ 3800 1650
+NoConn ~ 3800 1750
+NoConn ~ 3800 1850
+NoConn ~ 3800 1950
+NoConn ~ 3800 2050
+NoConn ~ 3800 2150
+NoConn ~ 3800 2250
+NoConn ~ 3800 2350
+NoConn ~ 3800 2450
+NoConn ~ 3800 2550
+NoConn ~ 3800 2650
+NoConn ~ 3800 2750
+NoConn ~ 3800 2950
+NoConn ~ 3800 3050
+NoConn ~ 3800 3150
+NoConn ~ 3800 3250
+NoConn ~ 3800 3350
+NoConn ~ 3800 3450
+NoConn ~ 5950 3350
+NoConn ~ 5950 3250
+NoConn ~ 5950 3150
+NoConn ~ 5950 3050
+NoConn ~ 5950 2850
+NoConn ~ 5950 2750
+NoConn ~ 5950 2550
+NoConn ~ 5950 2450
+NoConn ~ 5950 2350
+NoConn ~ 5950 2250
+NoConn ~ 5950 2150
+NoConn ~ 5950 2050
+NoConn ~ 5950 1750
+NoConn ~ 5950 1650
+NoConn ~ 5950 1550
+NoConn ~ 5950 1450
+NoConn ~ 5950 1350
+NoConn ~ 6450 2050
+NoConn ~ 6450 2150
+NoConn ~ 6450 2250
+NoConn ~ 6450 2350
+NoConn ~ 6450 2450
+NoConn ~ 6450 2550
+NoConn ~ 6450 2650
+NoConn ~ 6450 2750
+NoConn ~ 6450 2850
+NoConn ~ 6450 3050
+NoConn ~ 6450 3150
+NoConn ~ 6450 3450
+NoConn ~ 6450 3350
+NoConn ~ 6450 3650
+NoConn ~ 6450 3750
+NoConn ~ 8600 3750
+NoConn ~ 8600 3650
+NoConn ~ 8600 3550
+NoConn ~ 8600 3450
+NoConn ~ 8600 3350
+NoConn ~ 8600 3250
+NoConn ~ 8600 3150
+NoConn ~ 8600 3050
+NoConn ~ 8600 2950
+NoConn ~ 8600 2850
+NoConn ~ 8600 2750
+NoConn ~ 8600 2550
+NoConn ~ 8600 2350
+NoConn ~ 8600 2250
+NoConn ~ 8600 2150
+NoConn ~ 8600 2050
+NoConn ~ 8600 1950
+NoConn ~ 8600 1850
+NoConn ~ 8600 1750
+NoConn ~ 8600 1650
+NoConn ~ 8600 1550
+NoConn ~ 8600 1450
+NoConn ~ 8600 1350
+Wire Wire Line
+	5950 3650 5800 3650
+$Comp
+L TOM_TELIT862_CONN50 U4
+U 1 1 54D34A6E
+P 5050 5500
+F 0 "U4" H 5050 4150 60  0000 C CNN
+F 1 "TOM_TELIT862_CONN50" H 5050 6850 60  0000 C CNN
+F 2 "~" H 5050 5500 60  0000 C CNN
+F 3 "~" H 5050 5500 60  0000 C CNN
+	1    5050 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L TOM_TELIT862_CONN50_FAUX U3
+U 1 1 54D34A74
+P 7700 5500
+F 0 "U3" H 7700 4150 60  0000 C CNN
+F 1 "TOM_TELIT862_CONN50_FAUX" H 7700 6850 60  0000 C CNN
+F 2 "~" H 7700 5500 60  0000 C CNN
+F 3 "~" H 7700 5500 60  0000 C CNN
+	1    7700 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 4300 4000 4300
+Wire Wire Line
+	4150 4400 4000 4400
+Wire Wire Line
+	4150 4500 4000 4500
+Wire Wire Line
+	4150 4600 4000 4600
+Wire Wire Line
+	4150 4700 4000 4700
+Wire Wire Line
+	4150 4800 4000 4800
+Wire Wire Line
+	4150 4900 4000 4900
+Wire Wire Line
+	4150 5000 4000 5000
+Wire Wire Line
+	4150 5100 4000 5100
+Wire Wire Line
+	4150 5200 4000 5200
+Wire Wire Line
+	4150 5300 4000 5300
+Wire Wire Line
+	4150 5400 4000 5400
+Wire Wire Line
+	4150 5500 4000 5500
+Wire Wire Line
+	4150 5600 4000 5600
+Wire Wire Line
+	4150 5700 4000 5700
+Wire Wire Line
+	4150 5800 4000 5800
+Wire Wire Line
+	4150 5900 4000 5900
+Wire Wire Line
+	4150 6000 4000 6000
+Wire Wire Line
+	4150 6100 4000 6100
+Wire Wire Line
+	4150 6200 4000 6200
+Wire Wire Line
+	4150 6300 4000 6300
+Wire Wire Line
+	4150 6400 4000 6400
+Wire Wire Line
+	4150 6500 4000 6500
+Wire Wire Line
+	4150 6600 4000 6600
+Wire Wire Line
+	4150 6700 4000 6700
+Wire Wire Line
+	6150 4300 6000 4300
+Wire Wire Line
+	6150 4400 6000 4400
+Wire Wire Line
+	6150 4500 6000 4500
+Wire Wire Line
+	6150 4600 6000 4600
+Wire Wire Line
+	6150 4700 6000 4700
+Wire Wire Line
+	6150 4800 6000 4800
+Wire Wire Line
+	6150 4900 6000 4900
+Wire Wire Line
+	6150 5000 6000 5000
+Wire Wire Line
+	6150 5100 6000 5100
+Wire Wire Line
+	6150 5200 6000 5200
+Wire Wire Line
+	6150 5300 6000 5300
+Wire Wire Line
+	6150 5400 6000 5400
+Wire Wire Line
+	6150 5500 6000 5500
+Wire Wire Line
+	6150 5600 6000 5600
+Wire Wire Line
+	6150 5700 6000 5700
+Wire Wire Line
+	6150 5800 6000 5800
+Wire Wire Line
+	6150 5900 6000 5900
+Wire Wire Line
+	6150 6000 6000 6000
+Wire Wire Line
+	6150 6100 6000 6100
+Wire Wire Line
+	6150 6200 6000 6200
+Wire Wire Line
+	6150 6300 6000 6300
+Wire Wire Line
+	6150 6400 6000 6400
+Wire Wire Line
+	6150 6500 6000 6500
+Wire Wire Line
+	6150 6700 6000 6700
+Wire Wire Line
+	6800 4300 6650 4300
+Wire Wire Line
+	6800 4400 6650 4400
+Wire Wire Line
+	6800 4500 6650 4500
+Wire Wire Line
+	6800 4600 6650 4600
+Wire Wire Line
+	6800 4700 6650 4700
+Wire Wire Line
+	6800 4800 6650 4800
+Wire Wire Line
+	6800 4900 6650 4900
+Wire Wire Line
+	6800 5000 6650 5000
+Wire Wire Line
+	6800 5100 6650 5100
+Wire Wire Line
+	6800 5200 6650 5200
+Wire Wire Line
+	6800 5300 6650 5300
+Wire Wire Line
+	6800 5400 6650 5400
+Wire Wire Line
+	6800 5500 6650 5500
+Wire Wire Line
+	6800 5600 6650 5600
+Wire Wire Line
+	6800 5700 6650 5700
+Wire Wire Line
+	6800 5800 6650 5800
+Wire Wire Line
+	6800 5900 6650 5900
+Wire Wire Line
+	6800 6000 6650 6000
+Wire Wire Line
+	6800 6100 6650 6100
+Wire Wire Line
+	6800 6200 6650 6200
+Wire Wire Line
+	6800 6300 6650 6300
+Wire Wire Line
+	6800 6400 6650 6400
+Wire Wire Line
+	6800 6500 6650 6500
+Wire Wire Line
+	6800 6600 6650 6600
+Wire Wire Line
+	6800 6700 6650 6700
+Wire Wire Line
+	8800 4300 8650 4300
+Wire Wire Line
+	8800 4400 8650 4400
+Wire Wire Line
+	8800 4500 8650 4500
+Wire Wire Line
+	8800 4600 8650 4600
+Wire Wire Line
+	8800 4700 8650 4700
+Wire Wire Line
+	8800 4800 8650 4800
+Wire Wire Line
+	8800 4900 8650 4900
+Wire Wire Line
+	8800 5000 8650 5000
+Wire Wire Line
+	8800 5100 8650 5100
+Wire Wire Line
+	8800 5200 8650 5200
+Wire Wire Line
+	8800 5300 8650 5300
+Wire Wire Line
+	8800 5400 8650 5400
+Wire Wire Line
+	8800 5500 8650 5500
+Wire Wire Line
+	8800 5600 8650 5600
+Wire Wire Line
+	8800 5700 8650 5700
+Wire Wire Line
+	8800 5800 8650 5800
+Wire Wire Line
+	8800 5900 8650 5900
+Wire Wire Line
+	8800 6000 8650 6000
+Wire Wire Line
+	8800 6100 8650 6100
+Wire Wire Line
+	8800 6200 8650 6200
+Wire Wire Line
+	8800 6300 8650 6300
+Wire Wire Line
+	8800 6400 8650 6400
+Wire Wire Line
+	8800 6500 8650 6500
+Wire Wire Line
+	8800 6600 8650 6600
+Wire Wire Line
+	8800 6700 8650 6700
+Text Label 6150 6700 0    60   ~ 0
+Vbatt
+Text Label 6150 6600 0    60   ~ 0
+Vbatt
+Text Label 6150 6500 0    60   ~ 0
+Vbatt
+Text Label 6150 6400 0    60   ~ 0
+Vbatt
+Text Label 4000 6500 0    60   ~ 0
+GND
+Text Label 4000 6600 0    60   ~ 0
+GND
+Text Label 4000 6700 0    60   ~ 0
+GND
+Text Label 6700 4400 0    60   ~ 0
+GND
+Text Label 6700 4600 0    60   ~ 0
+GND
+Text Label 6700 4800 0    60   ~ 0
+GND
+Text Label 6700 5900 0    60   ~ 0
+ON/Off
+Text Label 6050 5900 0    60   ~ 0
+ON/Off
+Text Label 6700 4300 0    60   ~ 0
+Vbatt
+Text Label 6700 4500 0    60   ~ 0
+Vbatt
+Text Label 6700 4700 0    60   ~ 0
+Vbatt
+Text Label 6700 4900 0    60   ~ 0
+Vbatt
+Text Label 6700 6500 0    60   ~ 0
+Rst
+Text Label 6050 5600 0    60   ~ 0
+Rst
+Text Label 4050 5800 0    60   ~ 0
+Tx
+Text Label 6700 6200 0    60   ~ 0
+Tx
+Text Label 8700 5600 0    60   ~ 0
+Rx
+Text Label 6050 4900 0    60   ~ 0
+Rx
+Text Label 6050 4800 0    60   ~ 0
+Led
+Text Label 8700 5400 0    60   ~ 0
+Led
+NoConn ~ 4000 4300
+NoConn ~ 4000 4400
+NoConn ~ 4000 4500
+NoConn ~ 4000 4600
+NoConn ~ 4000 4700
+NoConn ~ 4000 4800
+NoConn ~ 4000 4900
+NoConn ~ 4000 5000
+NoConn ~ 4000 5100
+NoConn ~ 4000 5200
+NoConn ~ 4000 5300
+NoConn ~ 4000 5400
+NoConn ~ 4000 5500
+NoConn ~ 4000 5600
+NoConn ~ 4000 5700
+NoConn ~ 4000 5900
+NoConn ~ 4000 6000
+NoConn ~ 4000 6100
+NoConn ~ 4000 6200
+NoConn ~ 4000 6300
+NoConn ~ 4000 6400
+NoConn ~ 6150 6300
+NoConn ~ 6150 6200
+NoConn ~ 6150 6100
+NoConn ~ 6150 6000
+NoConn ~ 6150 5800
+NoConn ~ 6150 5700
+NoConn ~ 6150 5500
+NoConn ~ 6150 5400
+NoConn ~ 6150 5300
+NoConn ~ 6150 5200
+NoConn ~ 6150 5100
+NoConn ~ 6150 5000
+NoConn ~ 6150 4700
+NoConn ~ 6150 4600
+NoConn ~ 6150 4500
+NoConn ~ 6150 4400
+NoConn ~ 6150 4300
+NoConn ~ 6650 5000
+NoConn ~ 6650 5100
+NoConn ~ 6650 5200
+NoConn ~ 6650 5300
+NoConn ~ 6650 5400
+NoConn ~ 6650 5500
+NoConn ~ 6650 5600
+NoConn ~ 6650 5700
+NoConn ~ 6650 5800
+NoConn ~ 6650 6000
+NoConn ~ 6650 6100
+NoConn ~ 6650 6400
+NoConn ~ 6650 6300
+NoConn ~ 6650 6600
+NoConn ~ 6650 6700
+NoConn ~ 8800 6700
+NoConn ~ 8800 6600
+NoConn ~ 8800 6500
+NoConn ~ 8800 6400
+NoConn ~ 8800 6300
+NoConn ~ 8800 6200
+NoConn ~ 8800 6100
+NoConn ~ 8800 6000
+NoConn ~ 8800 5900
+NoConn ~ 8800 5800
+NoConn ~ 8800 5700
+NoConn ~ 8800 5500
+NoConn ~ 8800 5300
+NoConn ~ 8800 5200
+NoConn ~ 8800 5100
+NoConn ~ 8800 5000
+NoConn ~ 8800 4900
+NoConn ~ 8800 4800
+NoConn ~ 8800 4700
+NoConn ~ 8800 4600
+NoConn ~ 8800 4500
+NoConn ~ 8800 4400
+NoConn ~ 8800 4300
+Wire Wire Line
+	6150 6600 6000 6600
+$EndSCHEMATC

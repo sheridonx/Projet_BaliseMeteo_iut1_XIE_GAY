@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 05/02/2015 11:49:09
+
+BeginCmp
+TimeStamp = /54D32A5D;
+Reference = U1;
+ValeurCmp = TOM_TELIT862_CONN50;
+IdModule  = Tom_Telit862_Conn50;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D339CA;
+Reference = U2;
+ValeurCmp = TOM_TELIT862_CONN50_FAUX;
+IdModule  = Modem_gsm_862;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D34A74;
+Reference = U3;
+ValeurCmp = TOM_TELIT862_CONN50_FAUX;
+IdModule  = Tom_Telit862_Conn50;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D34A6E;
+Reference = U4;
+ValeurCmp = TOM_TELIT862_CONN50;
+IdModule  = Modem_gsm_862;
+EndCmp
+
+EndListe
